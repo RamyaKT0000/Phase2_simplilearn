@@ -1,0 +1,62 @@
+{
+
+  "products":[
+    {
+      "id":1,
+      "name":"idli",
+      "desc":"This is product 1 description",
+      "imgUrl": "/assets/rava-idli.jpg",
+      "price":300
+    },
+
+    {
+      "id":2,
+      "name":"idli",
+      "desc":" This is product 2 description",
+      "imgUrl": "/assets/rava-idli.jpg",
+      "price":300
+    },
+
+    {
+      "id":3,
+      "name":"idli",
+      "desc":"This is product 3 description ",
+      "imgUrl": "/assets/rava-idli.jpg",
+      "price":300
+    },
+
+    {
+      "id":4,
+      "name":"idli",
+      "desc":" This is product 4 description",
+      "imgUrl": "/assets/rava-idli.jpg",
+      "price":300
+    },
+
+    {
+      "id":5,
+      "name":"idli",
+      "desc":" This is product 5 description",
+      "imgUrl": "/assets/rava-idli.jpg",
+      "price":300
+    }
+  ],
+
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
